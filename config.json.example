@@ -1,0 +1,5 @@
+{
+  "token": "YOUR-DISCORD-APPLICATION-TOKEN",
+  "clientId": "YOUR-DISCORD-APPLICATION-ID",
+  "guildId": "YOUR-DISCORD-GUILD-ID (aka server id)"
+}
